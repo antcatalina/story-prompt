@@ -23,6 +23,10 @@ while True:
         if number < 1: raise NumberTooLowError
         if number > 99999: raise NumberTooHighError
         break
+    except NumberTooLowError:
+        print("NUMBER value must be greater than 0. Try again...")
+    except NumberTooHighError:
+        print("NUMBER value must be less than 100000. Try again...")
     except ValueError: 
         print("NUMBER value must be a valid integer.  Try again...")
 
