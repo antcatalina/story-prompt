@@ -15,3 +15,13 @@ Write a command line application in any language that accepts a json string of k
 Write a second command line application that sends to STDOUT statistics about the stored records, including the maximum and minimum values for numerical inputs, the most common responses for string inputs, and anything else you think might be relevant.
 
 Instructions for installing and running your applications should be added to this README file.
+
+## Instructions for running
+
+Navigate to directory containing all project folders. The first command line application can be run by:
+"python3 main.py"
+The program will ask the user for inputs.
+
+The second command line application can be run by:
+"python3 stats.py"
+The program will display all relevant statistics for the user inputs
