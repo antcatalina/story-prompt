@@ -1,9 +1,3 @@
-## Instructions
-
-Thanks for doing this project as part of your interview process. We appreciate your time and want to make this a fun experience. If you have any questions at all, please reach out to us and we'll get back to you.
-
-Fork a copy of this repository to your Github account and when you have completed the project below, send a link to ben@commonpaper.com.
-
 ## Project
 
 ### Story Prompt Generator
