@@ -19,9 +19,9 @@ Instructions for installing and running your applications should be added to thi
 ## Instructions for running
 
 Navigate to directory containing all project folders. The first command line application can be run by:
-"python3 main.py"
+> python3 main.py
 The program will ask the user for inputs.
 
 The second command line application can be run by:
-"python3 stats.py"
+> python3 stats.py 
 The program will display all relevant statistics for the user inputs
