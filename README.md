@@ -20,4 +20,4 @@ The program will ask the user for inputs.
 The second command line application can be run by:
 > python3 stats.py 
 
-The program will display all relevant statistics for the user inputs.
+The program will display all relevant statistics for the user inputs
